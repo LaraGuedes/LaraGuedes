@@ -1,8 +1,8 @@
 <h1> Olá meu nome é Lara Guedes </h1>
 <div style="text-align: justify;"> 
-  <p>Sou apaixonada por tecnologia e inovação, e a cada momento busco aprender um pouco mais!</p>
-  <p>Curso o técnico em informática para internet no Instituto Federal do Espírito Santo - campus Colatina, que me permitiu conhecer diversas tecnologias.</p>
-  <p>Hoje participo da equipe de robótica do Instituto Federal que me possibilitou ter a experiência de trabalhar com código em equipe, obter experiência com o git e com versionamento de código, também atuo como monitora de programação para jovens.</p>
+  <p>Sou apaixonada por tecnologia e inovação, e a cada momento busco aprender um pouco mais!
+  Curso o técnico em informática para internet no Instituto Federal do Espírito Santo - campus Colatina, que me permitiu conhecer diversas tecnologias.
+   Hoje participo da equipe de robótica do Instituto Federal que me possibilitou ter a experiência de trabalhar com código em equipe, obter experiência com o git e com versionamento de código, também atuo como monitora de programação para jovens.</p>
 </div>
 
 <div align="center">
