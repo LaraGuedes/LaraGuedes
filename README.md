@@ -1,4 +1,4 @@
-<h1> Olá meu nome é Lara Guedes </h1>
+<h1> Olá, meu nome é Lara Guedes </h1>
 <div style="text-align: justify;"> 
   <p>Sou apaixonada por tecnologia e inovação, e a cada momento busco aprender um pouco mais!
   Curso o técnico em informática para internet no Instituto Federal do Espírito Santo - campus Colatina, que me permitiu conhecer diversas tecnologias.
