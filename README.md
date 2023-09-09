@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/LaraGuedes">
+  <a href="https://github.com/LaraGuedes" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraGuedes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
