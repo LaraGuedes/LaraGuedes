@@ -1,7 +1,8 @@
 <h1> Olá, meu nome é Lara Guedes! </h1>
 <div style="text-align: justify;"> 
   <p>Sou apaixonada por tecnologia e inovação, e a cada momento busco aprender um pouco mais! 
-  <br>Curso o técnico em informática para internet no Instituto Federal do Espírito Santo - campus Colatina, que me permitiu conhecer diversas tecnologias. Hoje participo da equipe de robótica do Instituto Federal que me possibilitou ter a experiência de trabalhar com código em equipe, obter experiência com o git e com versionamento de código, também atuo como monitora de programação para jovens.</p>
+  <br>Curso o técnico em informática para internet no Instituto Federal do Espírito Santo - campus Colatina, o que me proporcionou o conhecimento de diversas tecnologias. 
+  <br>   Atualmente, faço parte da equipe de robótica do Instituto Federal, onde obtive experiência em trabalho colaborativo com código, desenvolvi habilidades com o Git e aprendi sobre versionamento de código. Além disso, participo de uma Iniciação Científica focada no desenvolvimento de uma Ferramenta de Software para Busca e Recuperação de Ativos de Propriedade Intelectual das Bases do INPI. Já desempenhei também o papel de monitora de programação para jovens.</p>
 </div>
 
 <div align="center">
